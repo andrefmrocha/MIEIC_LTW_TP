@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <title>Let me Steal your Data</title>
+    <meta charset="UTF-8">
+    <link href="../styles/form.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body>
+    <form action="dummy.php" method="POST">
+        <fieldset>
+            <legend>Personal Data</legend>
+            <label>Name: <input type="text" name="name"></label>
+            <span class="age-group">
+                <label>&lt; 18<input type="radio" name="age"></label> 
+                <label>19-35 <input type="radio" name="age"></label>
+                <label>36-48 <input type="radio" name="age"></label>
+                <label>&gt; 49<input type="radio" name="age"></label>
+            </span>
+            <label>Profession: <input type="text" name="name"></label>
+            <label class="country-group">Country:
+                <select name="country">
+                    <optgroup label="Europe">
+                        <option value="portugal">Portugal</option>
+                        <option value="other">The Rest</option>
+                    </optgroup>
+                    <optgroup label="North America">
+                        <option value="portugal">Canada</option>
+                        <option value="USA">Really?</option>
+                    </optgroup>
+                </select>
+            </label>
+            <p> Interests:
+                <label>Socks <input type="checkbox" name="socks"></label>
+                <label>Boxes <input type="checkbox" name="Boxes"></label>
+                <label>StuDYING <input type="checkbox" name="StuDYING"></label>
+                <label>Soccer(ew) <input type="checkbox" name="Soccer"></label>
+            </p>
+            <label>How the hell did you here?
+                <textarea name="how" rows="5" cols="40"></textarea>
+            </label>
+        </fieldset>
+        <label><input type="submit" name="submit"></label>
+    </form>
+</body>
+
+</html>

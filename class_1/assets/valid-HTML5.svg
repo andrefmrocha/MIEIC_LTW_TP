@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1138.7955 605.4834"
+   version="1.1"
+   id="svg4575"
+   sodipodi:docname="valid-HTML5.svg"
+   width="1138.7955"
+   height="605.4834"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata4581">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>HTML5 Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>W3C</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC BY 3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Added &quot;valid&quot; and a box to the HTML5 logo by W3C.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4579" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1592"
+     inkscape:window-height="990"
+     id="namedview4577"
+     showgrid="false"
+     inkscape:zoom="0.55449878"
+     inkscape:cx="479.12342"
+     inkscape:cy="70.624286"
+     inkscape:window-x="1680"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4575"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <title
+     id="title4553">HTML5 Logo</title>
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 1052.1787,77.141744 h 80.6168 V 536.34167 H 6 V 77.141744 h 676.65024"
+     id="path4673"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" />
+  <g
+     id="g4720"
+     transform="matrix(1.1472276,0,0,1.1472276,-83.168037,4.0000744)"
+     style="stroke-width:0.87166667">
+    <polygon
+       transform="matrix(1.0597647,0,0,1.0597647,556.40314,-18.306539)"
+       id="polygon4555-0"
+       points="74.633,100.62 437.367,100.62 404.321,470.819 255.778,512 107.644,470.877 "
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.82250953" />
+    <polygon
+       transform="translate(571.70291)"
+       id="polygon4555"
+       points="404.321,470.819 255.778,512 107.644,470.877 74.633,100.62 437.367,100.62 "
+       style="fill:#e44d26;stroke-width:0.87166667" />
+    <polygon
+       transform="translate(571.70291)"
+       id="polygon4557"
+       points="256,130.894 256,480.523 376.03,447.246 404.27,130.894 "
+       style="fill:#f16529;stroke-width:0.87166667" />
+    <polygon
+       transform="translate(571.70291)"
+       id="polygon4559"
+       points="256,221.716 256,176.305 255.843,176.305 142.132,176.305 143.219,188.488 154.38,313.627 256,313.627 256,268.217 195.91,268.217 191.76,221.716 "
+       style="fill:#ebebeb;stroke-width:0.87166667" />
+    <polygon
+       transform="translate(571.70291)"
+       id="polygon4561"
+       points="162.771,407.634 255.791,433.457 256,433.399 256,386.153 255.801,386.206 205.227,372.55 201.994,336.333 177.419,336.333 156.409,336.333 "
+       style="fill:#ebebeb;stroke-width:0.87166667" />
+    <path
+       id="path4563"
+       d="m 680.08491,0 h 23.077 v 22.8 h 21.11 V 0 h 23.078 v 69.044 h -23.077 v -23.12 h -21.11 v 23.12 h -23.077 V 0 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.87166667" />
+    <path
+       id="path4565"
+       d="m 777.69691,22.896 h -20.316 V 0 h 63.72 v 22.896 h -20.325 v 46.148 h -23.078 V 22.896 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.87166667" />
+    <path
+       id="path4567"
+       d="m 831.21391,0 h 24.063 l 14.802,24.26 14.787,-24.26 h 24.072 v 69.044 h -22.982 V 34.822 l -15.877,24.549 h -0.397 l -15.888,-24.549 v 34.222 h -22.58 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.87166667" />
+    <path
+       id="path4569"
+       d="m 920.42291,0 h 23.084 v 46.222 h 32.453 v 22.822 h -55.537 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.87166667" />
+    <polygon
+       transform="translate(571.70291)"
+       id="polygon4571"
+       points="311.761,313.627 306.49,372.521 255.843,386.191 255.843,433.435 348.937,407.634 349.62,399.962 360.291,280.411 361.399,268.217 349.162,268.217 255.843,268.217 255.843,313.627 "
+       style="fill:#ffffff;stroke-width:0.87166667" />
+    <polygon
+       transform="translate(571.70291)"
+       id="polygon4573"
+       points="365.531,221.716 366.442,211.509 368.511,188.488 369.597,176.305 255.843,176.305 255.843,204.509 255.843,221.605 255.843,221.716 365.385,221.716 "
+       style="fill:#ffffff;stroke-width:0.87166667" />
+  </g>
+  <g
+     aria-label="valid"
+     style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text4585">
+    <path
+       d="m 199.87219,270.04839 h -31.57333 l -23.25333,84.26666 -24.96,-84.26666 H 88.512195 l 40.319995,115.19999 h 31.36 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:213.33332825px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'"
+       id="path4724" />
+    <path
+       d="m 312.72886,385.24838 v -3.62666 c -5.33334,-4.90667 -6.82667,-8.10667 -6.82667,-14.08 v -64 c 0,-23.46667 -16,-35.41333 -47.14667,-35.41333 -31.14666,0 -47.35999,13.22666 -49.27999,39.89333 h 28.79999 c 1.49334,-11.94667 6.4,-15.78667 21.12,-15.78667 11.52,0 17.28,3.84 17.28,11.52 0,12.16 -8.96,10.88 -23.89333,13.44 l -11.94667,2.13333 c -22.82666,4.05334 -33.91999,13.86667 -33.91999,34.77334 0,22.4 15.78666,33.06666 34.98666,33.06666 12.8,0 24.53333,-5.54666 34.98667,-16.42666 0,5.97333 0.64,11.09333 3.41333,14.50666 z m -36.05334,-49.28 c 0,17.28 -8.53333,27.09334 -23.68,27.09334 -10.02666,0 -16.21333,-3.84 -16.21333,-12.37334 0,-8.74666 4.69333,-11.94666 17.06667,-14.29333 l 10.24,-1.92 c 7.89333,-1.49333 9.17333,-1.92 12.58666,-3.62667 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:213.33332825px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'"
+       id="path4726" />
+    <path
+       d="M 363.85218,385.24838 V 229.72839 h -29.86666 v 155.51999 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:213.33332825px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'"
+       id="path4728" />
+    <path
+       d="M 423.01884,385.24838 V 270.04839 h -29.86667 v 115.19999 z m 0.42667,-129.06666 v -29.86667 h -29.86667 v 29.86667 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:213.33332825px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'"
+       id="path4730" />
+    <path
+       d="M 554.29219,385.24838 V 229.72839 h -29.86666 v 55.25333 c -7.46667,-11.52 -17.49334,-16.85333 -31.78667,-16.85333 -27.52,0 -48.42667,24.95999 -48.42667,59.73333 0,32.64 17.92,59.30666 48.42667,59.30666 14.29333,0 24.32,-5.33333 31.78667,-15.14666 v 13.22666 z m -29.86666,-56.96 c 0,20.90667 -10.24,33.92 -25.17334,33.92 -14.93333,0 -25.17333,-13.22666 -25.17333,-34.34666 0,-21.33334 10.24,-34.77334 25.17333,-34.77334 15.14667,0 25.17334,13.22667 25.17334,35.2 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:213.33332825px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'"
+       id="path4732" />
+  </g>
+</svg>
