@@ -1,0 +1,171 @@
+#website-header{
+    background-color: #046dd5;
+    padding: 1em;
+}
+
+#website-header > h1.title{
+    margin: 0;
+    font-size: 1.5em;
+}
+
+#website-header div a {
+    font-weight: bold;
+    font-size: 0.8em;
+    padding: 0em 1em; 
+}
+
+#website-header div a#register-ref {
+    padding-left: 0;
+    border-right: 1px #ffffff solid;
+}
+
+#related{
+    display: inline-block;
+}
+
+#signup{
+    text-align: right;
+    font-weight: normal;
+}
+
+
+h2.title{
+    font-size: 1.1em;
+}
+
+.title a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.navbar li {
+    text-align: center; 
+    display: inline-block;
+    padding: 1em 0.4em;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.navbar {
+    padding-left: 0;
+    margin-top: 0;
+    width: 80%;
+    display: inline-block;
+}
+
+.navbar li:nth-child(1){
+    border-top: 5px #e1493e solid;
+}
+
+.navbar li:nth-child(2){
+    border-top: 5px #8aba56 solid;
+}
+
+.navbar li:nth-child(3){
+    border-top: 5px #5b4282 solid;
+}
+
+.navbar li:nth-child(4){
+    border-top: 5px #ff8932 solid;
+}
+
+.navbar li:nth-child(5){
+    border-top: 5px #19b6e9 solid;
+}
+
+.navbar li:nth-child(6){
+    border-top: 5px #e84c8b solid;
+}
+
+#related {
+    background-color: #2a2f33;
+    color: white;
+    padding: 1em;
+    width: 15%;
+    float: right;
+    position: relative;
+    display: flexbox;
+}
+
+#related h1 {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+#related p {
+    font-size: 0.9em;
+}
+
+#menu input{
+    display: none;
+}
+
+#news{
+    width: 60em;
+}
+
+#news > article{
+    position: relative;
+    padding: 1em;
+}
+
+#news > article > header {
+    position: absolute;
+    z-index: 4;
+    width: 12em;
+}
+
+#news > article a {
+    text-decoration: none;
+    color: white;
+}
+
+#news > article > img {
+    position: relative;
+    width: 100%;
+}
+
+#news article p:nth-child(3)::first-letter{
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#news footer::before {
+    content: "By";
+}
+
+#news footer {
+    background-color: #f4655f;
+    color: white;
+    font-size: 0.9em;
+    padding: 0.5em;
+}
+
+#news footer span.tags > a,
+.comments{
+    text-decoration: underline;
+}
+
+.tags, .date{
+    margin-right: 1em;
+}
+
+.comments::after{
+    content: " comments"
+}
+
+footer >  p {
+    background-color: #2a2f33;
+}
+
+body {
+    padding: 0.5em;
+}
+
+body > footer {
+    padding: 0.1em;
+}
