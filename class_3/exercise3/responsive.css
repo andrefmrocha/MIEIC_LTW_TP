@@ -1,0 +1,80 @@
+@media only screen and (max-width: 60em) {
+    body{
+        width: 100%;
+    }
+}
+
+@media (max-width: 30em) {
+    #menu label::before{
+        content: "☰";
+        font-size: 0.9em;
+    }
+
+    #menu input {
+        display: block;
+    }
+
+    #menu input {
+        display: block;
+        width: 100%;
+        background-color: #2a2f33;
+        color: white;
+        padding: 0.5em;
+    }
+
+    #menu input:focus + .navbar{
+        display: block;
+    }
+
+    #menu{
+        grid-column: 1/6;
+    }
+
+    aside {
+        display: none;
+        
+    }
+
+    #news {
+        grid-column: 1 / 6;
+    }
+
+    .navbar {
+        display: none;
+    }
+    .navbar li {
+        text-align: left;
+        padding-left: 1em;
+        font-size: 0.8em;
+        height: 1em;
+    }
+    .navbar li:nth-child(1){
+        border-top: 0px;
+        border-left: 5px #e1493e solid;
+    }
+
+    .navbar li:nth-child(2){
+        border-top: 0px;
+        border-left: 5px #8aba56 solid;
+    }
+
+    .navbar li:nth-child(3){
+        border-top: 0px;
+        border-left: 5px #5b4282 solid;
+    }
+
+    .navbar li:nth-child(4){
+        border-top: 0px;
+        border-left: 5px #ff8932 solid;
+    }
+
+    .navbar li:nth-child(5){
+        border-top: 0px;
+        border-left: 5px #19b6e9 solid;
+    }
+
+    .navbar li:nth-child(6){
+        border-top: 0px;
+        border-left: 5px #e84c8b solid;
+    }
+}
