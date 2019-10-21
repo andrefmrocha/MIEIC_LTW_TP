@@ -108,6 +108,11 @@ h2.title{
     grid-row: 2/2;
 }
 
+#menu.comments-menu {
+    grid-column: 1 / 6;
+    grid-row: 2/2;
+}
+
 #menu input{
     display: none;
 }

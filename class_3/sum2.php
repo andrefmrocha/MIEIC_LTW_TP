@@ -20,7 +20,7 @@
     
     ?>
     <div>
-        <a href="http://gnomo.fe.up.pt/~up201706462/form2.html">Go back</a>
+        <a href="form2.html">Go back</a>
     </div>
 </body>
 
