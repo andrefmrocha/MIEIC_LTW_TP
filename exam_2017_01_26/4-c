@@ -1,0 +1,1 @@
+descendant::author[attribute::country='England']/book/@year
