@@ -1,0 +1,1 @@
+descendant::book[contains(., "Ensaio sobre a Cegueira")]/parent::author/@country
