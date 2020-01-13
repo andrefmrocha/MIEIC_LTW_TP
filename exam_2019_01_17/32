@@ -1,0 +1,1 @@
+recipes/recipe/ingredients/ingredient[contains(text(), 'Apple')]/ancestor::recipe/name/text()

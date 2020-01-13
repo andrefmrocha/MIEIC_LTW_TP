@@ -1,0 +1,1 @@
+recipes/recipe/name[contains(text(), 'Mixed Toast')]/parent::recipe/ingredients/count(ingredient)
