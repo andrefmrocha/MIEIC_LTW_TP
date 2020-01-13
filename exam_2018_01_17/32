@@ -1,0 +1,1 @@
+recipes/recipe[count(ingredients/ingredient) > 3]/name
